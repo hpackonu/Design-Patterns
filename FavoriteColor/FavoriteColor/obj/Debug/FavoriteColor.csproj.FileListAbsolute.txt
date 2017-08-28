@@ -1,0 +1,10 @@
+C:\Users\Hayden\Documents\Visual Studio 2017\Programs\FavoriteColor\FavoriteColor\bin\Debug\FavoriteColor.exe.config
+C:\Users\Hayden\Documents\Visual Studio 2017\Programs\FavoriteColor\FavoriteColor\bin\Debug\FavoriteColor.exe
+C:\Users\Hayden\Documents\Visual Studio 2017\Programs\FavoriteColor\FavoriteColor\bin\Debug\FavoriteColor.pdb
+C:\Users\Hayden\Documents\Visual Studio 2017\Programs\FavoriteColor\FavoriteColor\obj\Debug\FavoriteColor.csprojResolveAssemblyReference.cache
+C:\Users\Hayden\Documents\Visual Studio 2017\Programs\FavoriteColor\FavoriteColor\obj\Debug\FavoriteColor.Form1.resources
+C:\Users\Hayden\Documents\Visual Studio 2017\Programs\FavoriteColor\FavoriteColor\obj\Debug\FavoriteColor.Properties.Resources.resources
+C:\Users\Hayden\Documents\Visual Studio 2017\Programs\FavoriteColor\FavoriteColor\obj\Debug\FavoriteColor.csproj.GenerateResource.Cache
+C:\Users\Hayden\Documents\Visual Studio 2017\Programs\FavoriteColor\FavoriteColor\obj\Debug\FavoriteColor.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\Documents\Visual Studio 2017\Programs\FavoriteColor\FavoriteColor\obj\Debug\FavoriteColor.exe
+C:\Users\Hayden\Documents\Visual Studio 2017\Programs\FavoriteColor\FavoriteColor\obj\Debug\FavoriteColor.pdb
