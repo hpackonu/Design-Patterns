@@ -1,0 +1,10 @@
+C:\Users\Hayden\source\repos\FacadeBand\FacadeBand\obj\Debug\FacadeBand.Properties.Resources.resources
+C:\Users\Hayden\source\repos\FacadeBand\FacadeBand\obj\Debug\FacadeBand.csproj.GenerateResource.Cache
+C:\Users\Hayden\source\repos\FacadeBand\FacadeBand\obj\Debug\FacadeBand.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\source\repos\FacadeBand\FacadeBand\bin\Debug\FacadeBand.exe.config
+C:\Users\Hayden\source\repos\FacadeBand\FacadeBand\bin\Debug\FacadeBand.exe
+C:\Users\Hayden\source\repos\FacadeBand\FacadeBand\bin\Debug\FacadeBand.pdb
+C:\Users\Hayden\source\repos\FacadeBand\FacadeBand\obj\Debug\FacadeBand.Form1.resources
+C:\Users\Hayden\source\repos\FacadeBand\FacadeBand\obj\Debug\FacadeBand.exe
+C:\Users\Hayden\source\repos\FacadeBand\FacadeBand\obj\Debug\FacadeBand.pdb
+C:\Users\Hayden\source\repos\FacadeBand\FacadeBand\obj\Debug\FacadeBand.csprojResolveAssemblyReference.cache
