@@ -1,0 +1,10 @@
+C:\Users\Hayden\source\repos\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe.config
+C:\Users\Hayden\source\repos\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.exe
+C:\Users\Hayden\source\repos\FactoryPattern\FactoryPattern\bin\Debug\FactoryPattern.pdb
+C:\Users\Hayden\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csprojResolveAssemblyReference.cache
+C:\Users\Hayden\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.Form1.resources
+C:\Users\Hayden\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.Properties.Resources.resources
+C:\Users\Hayden\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.GenerateResource.Cache
+C:\Users\Hayden\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.exe
+C:\Users\Hayden\source\repos\FactoryPattern\FactoryPattern\obj\Debug\FactoryPattern.pdb
