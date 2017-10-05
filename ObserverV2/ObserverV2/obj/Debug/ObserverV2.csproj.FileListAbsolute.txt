@@ -1,0 +1,11 @@
+c:\users\hayden\source\repos\ObserverV2\ObserverV2\bin\Debug\ObserverV2.exe.config
+c:\users\hayden\source\repos\ObserverV2\ObserverV2\bin\Debug\ObserverV2.exe
+c:\users\hayden\source\repos\ObserverV2\ObserverV2\bin\Debug\ObserverV2.pdb
+c:\users\hayden\source\repos\ObserverV2\ObserverV2\obj\Debug\ObserverV2.csprojResolveAssemblyReference.cache
+c:\users\hayden\source\repos\ObserverV2\ObserverV2\obj\Debug\ObserverV2.Form1.resources
+c:\users\hayden\source\repos\ObserverV2\ObserverV2\obj\Debug\ObserverV2.Properties.Resources.resources
+c:\users\hayden\source\repos\ObserverV2\ObserverV2\obj\Debug\ObserverV2.csproj.GenerateResource.Cache
+c:\users\hayden\source\repos\ObserverV2\ObserverV2\obj\Debug\ObserverV2.csproj.CoreCompileInputs.cache
+c:\users\hayden\source\repos\ObserverV2\ObserverV2\obj\Debug\ObserverV2.exe
+c:\users\hayden\source\repos\ObserverV2\ObserverV2\obj\Debug\ObserverV2.pdb
+c:\users\hayden\source\repos\ObserverV2\ObserverV2\obj\Debug\ObserverV2.Form2.resources
