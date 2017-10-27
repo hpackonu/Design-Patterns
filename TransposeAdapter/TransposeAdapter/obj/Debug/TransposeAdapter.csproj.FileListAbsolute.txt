@@ -1,0 +1,10 @@
+C:\Users\Hayden\source\repos\TransposeAdapter\TransposeAdapter\bin\Debug\TransposeAdapter.exe.config
+C:\Users\Hayden\source\repos\TransposeAdapter\TransposeAdapter\bin\Debug\TransposeAdapter.exe
+C:\Users\Hayden\source\repos\TransposeAdapter\TransposeAdapter\bin\Debug\TransposeAdapter.pdb
+C:\Users\Hayden\source\repos\TransposeAdapter\TransposeAdapter\obj\Debug\TransposeAdapter.csprojResolveAssemblyReference.cache
+C:\Users\Hayden\source\repos\TransposeAdapter\TransposeAdapter\obj\Debug\TransposeAdapter.Form1.resources
+C:\Users\Hayden\source\repos\TransposeAdapter\TransposeAdapter\obj\Debug\TransposeAdapter.Properties.Resources.resources
+C:\Users\Hayden\source\repos\TransposeAdapter\TransposeAdapter\obj\Debug\TransposeAdapter.csproj.GenerateResource.Cache
+C:\Users\Hayden\source\repos\TransposeAdapter\TransposeAdapter\obj\Debug\TransposeAdapter.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\source\repos\TransposeAdapter\TransposeAdapter\obj\Debug\TransposeAdapter.exe
+C:\Users\Hayden\source\repos\TransposeAdapter\TransposeAdapter\obj\Debug\TransposeAdapter.pdb
