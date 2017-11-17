@@ -1,0 +1,10 @@
+C:\Users\Hayden\source\repos\D20Strategy\D20Strategy\bin\Debug\D20Strategy.exe.config
+C:\Users\Hayden\source\repos\D20Strategy\D20Strategy\bin\Debug\D20Strategy.exe
+C:\Users\Hayden\source\repos\D20Strategy\D20Strategy\bin\Debug\D20Strategy.pdb
+C:\Users\Hayden\source\repos\D20Strategy\D20Strategy\obj\Debug\D20Strategy.csprojResolveAssemblyReference.cache
+C:\Users\Hayden\source\repos\D20Strategy\D20Strategy\obj\Debug\D20Strategy.Form1.resources
+C:\Users\Hayden\source\repos\D20Strategy\D20Strategy\obj\Debug\D20Strategy.Properties.Resources.resources
+C:\Users\Hayden\source\repos\D20Strategy\D20Strategy\obj\Debug\D20Strategy.csproj.GenerateResource.Cache
+C:\Users\Hayden\source\repos\D20Strategy\D20Strategy\obj\Debug\D20Strategy.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\source\repos\D20Strategy\D20Strategy\obj\Debug\D20Strategy.exe
+C:\Users\Hayden\source\repos\D20Strategy\D20Strategy\obj\Debug\D20Strategy.pdb
