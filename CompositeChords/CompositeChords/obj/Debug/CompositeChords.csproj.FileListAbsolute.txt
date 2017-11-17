@@ -1,0 +1,9 @@
+C:\Users\Hayden\source\repos\CompositeChords\CompositeChords\bin\Debug\CompositChords.exe.config
+C:\Users\Hayden\source\repos\CompositeChords\CompositeChords\bin\Debug\CompositChords.exe
+C:\Users\Hayden\source\repos\CompositeChords\CompositeChords\bin\Debug\CompositChords.pdb
+C:\Users\Hayden\source\repos\CompositeChords\CompositeChords\obj\Debug\CompositChords.Client.resources
+C:\Users\Hayden\source\repos\CompositeChords\CompositeChords\obj\Debug\CompositChords.Properties.Resources.resources
+C:\Users\Hayden\source\repos\CompositeChords\CompositeChords\obj\Debug\CompositeChords.csproj.GenerateResource.Cache
+C:\Users\Hayden\source\repos\CompositeChords\CompositeChords\obj\Debug\CompositeChords.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\source\repos\CompositeChords\CompositeChords\obj\Debug\CompositChords.exe
+C:\Users\Hayden\source\repos\CompositeChords\CompositeChords\obj\Debug\CompositChords.pdb

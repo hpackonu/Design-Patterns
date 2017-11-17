@@ -1,0 +1,10 @@
+C:\Users\Hayden\source\repos\CompositChords\CompositChords\bin\Debug\CompositChords.exe.config
+C:\Users\Hayden\source\repos\CompositChords\CompositChords\bin\Debug\CompositChords.exe
+C:\Users\Hayden\source\repos\CompositChords\CompositChords\bin\Debug\CompositChords.pdb
+C:\Users\Hayden\source\repos\CompositChords\CompositChords\obj\Debug\CompositChords.csprojResolveAssemblyReference.cache
+C:\Users\Hayden\source\repos\CompositChords\CompositChords\obj\Debug\CompositChords.Client.resources
+C:\Users\Hayden\source\repos\CompositChords\CompositChords\obj\Debug\CompositChords.Properties.Resources.resources
+C:\Users\Hayden\source\repos\CompositChords\CompositChords\obj\Debug\CompositChords.csproj.GenerateResource.Cache
+C:\Users\Hayden\source\repos\CompositChords\CompositChords\obj\Debug\CompositChords.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\source\repos\CompositChords\CompositChords\obj\Debug\CompositChords.exe
+C:\Users\Hayden\source\repos\CompositChords\CompositChords\obj\Debug\CompositChords.pdb
